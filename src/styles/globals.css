@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+button {
+    cursor: pointer;
+}
+
+input {
+    font-weight: bold;
+}
+
+* {
+    font-family: cursive;
+}
+
+body, html {
+    background-color: black;
+}
