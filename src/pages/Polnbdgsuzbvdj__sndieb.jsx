@@ -26,7 +26,7 @@ export default function UserList() {
   };
 
   const handleUserClick = (userId) => {
-    router.push(`/Chat?id=${userId}`);
+    router.push(`/Chat?id=${userId}&admin=slmhh`);
   };
 
   const handleDelete = async (userID) => {
